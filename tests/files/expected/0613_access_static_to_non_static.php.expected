@@ -1,0 +1,1 @@
+%s:13 PhanAccessStaticToNonStatic Cannot make static method \PrimaryClass::staticFunction() non static
