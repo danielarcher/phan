@@ -1,2 +1,2 @@
-%s:8 PhanCompatibleShortArrayAssignPHP70 Square bracket syntax for an array destructuring assignment is not compatible with PHP 7.0
-%s:11 PhanCompatibleShortArrayAssignPHP70 Square bracket syntax for an array destructuring assignment is not compatible with PHP 7.0
+%s:7 PhanCompatibleShortArrayAssignPHP70 Square bracket syntax for an array destructuring assignment is not compatible with PHP 7.0
+%s:9 PhanCompatibleShortArrayAssignPHP70 Square bracket syntax for an array destructuring assignment is not compatible with PHP 7.0
