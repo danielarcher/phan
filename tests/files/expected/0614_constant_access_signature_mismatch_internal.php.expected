@@ -1,0 +1,1 @@
+%s:4 PhanConstantAccessSignatureMismatchInternal Access level to private \MyPDO::FETCH_OBJ must be compatible with internal public \PDO::FETCH_OBJ
